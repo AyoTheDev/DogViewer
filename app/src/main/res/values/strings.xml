@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Dog gallery</string>
+    <string name="search">Search</string>
+    <string name="dog_image">Dog image</string>
+    <string name="search_by_name">Search by name</string>
+
+
+    <string name="name">Name: %s</string>
+
+    <string name="dog_temperament"><b>Temperament</b> \n %s</string>
+</resources>
