@@ -45,3 +45,5 @@ different projects
 * When querying the API the imageURL would return null so we had to have a base URL for the image and use the image id to be able to generate the image
 
 * It would have been good to have a state for when the query shows no results
+
+* A single activity approach would have been more suitable as fragments are more light weight and make transitions smoother
